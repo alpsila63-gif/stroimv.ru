@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+Disallow: /.well-known/
+Disallow: /*?*
+
+Host: stroimv.ru
+Sitemap: https://stroimv.ru/sitemap.xml
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
