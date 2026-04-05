@@ -1,4 +1,8 @@
 User-agent: *
 Allow: /
+Disallow: /js/
+Disallow: /css/
 
 Sitemap: https://stroimv.ru/sitemap.xml
+
+Host: stroimv.ru

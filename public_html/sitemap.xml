@@ -1,9 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://stroimv.ru/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
+<url><loc>https://stroimv.ru/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+<url><loc>https://stroimv.ru/remont-kvartir/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+<url><loc>https://stroimv.ru/remont-kvartir/pod-klyuch/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/remont-kvartir/v-novostrojke/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/remont-kvartir/vtorichka/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/remont-kvartir/chernovoj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/remont-kvartir/kosmeticheskij/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/remont-kvartir/kapitalnyj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/remont-kvartir/dizajnerskij/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/remont-kvartir/nedorogo/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/remont-kvartir/studiya/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://stroimv.ru/remont-kvartir/odnokomnatnaya/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://stroimv.ru/remont-kvartir/dvuhkomnatnaya/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://stroimv.ru/remont-kvartir/trekhkomnatnaya/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://stroimv.ru/remont-kvartir/v-stalinke/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://stroimv.ru/remont-ofisov/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+<url><loc>https://stroimv.ru/remont-ofisov/kosmeticheskij/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/remont-ofisov/kapitalnyj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/remont-pomeshhenij/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+<url><loc>https://stroimv.ru/remont-pomeshhenij/magaziny/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/remont-pomeshhenij/sklady/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/remont-pomeshhenij/kafe-i-restorany/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/remont-pomeshhenij/gostinica-i-otel/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/remont-pomeshhenij/salon-krasoty/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/remont-pomeshhenij/stomatologiya/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/remont-pomeshhenij/medicinskie-kliniki/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/remont-pomeshhenij/fitnes-klub/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/remont-pomeshhenij/apteka/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/remont-pomeshhenij/kommercheskie/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/remont-pomeshhenij/nezhilye/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/remont-domov/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+<url><loc>https://stroimv.ru/demontazh/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+<url><loc>https://stroimv.ru/demontazh/kvartiry/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/demontazh/sten-i-peregorodok/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/demontazh/styazhki-pola/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/demontazh/vyvoz-mebeli/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/demontazh/almaznaya-rezka/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/demontazh/snos-domov/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/uslugi/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+<url><loc>https://stroimv.ru/uslugi/elektromontazh-v-kvartire/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/uslugi/elektromontazh-kommercheskie/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/uslugi/santehnika/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/uslugi/bezvozdushnaya-pokraska/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/uslugi/mekhanizirovannaya-shtukaturka/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/uslugi/malyarnye-raboty/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/portfolio/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://stroimv.ru/ceny/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+<url><loc>https://stroimv.ru/o-kompanii/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://stroimv.ru/kontakty/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://stroimv.ru/blog/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://stroimv.ru/noginsk/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/elektrostal/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://stroimv.ru/pavlovskij-posad/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>
-
